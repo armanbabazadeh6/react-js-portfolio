@@ -2,6 +2,7 @@ import HeroSection from "../HeroSection.jsx";
 import MySkills from "../MySkills.jsx";
 import AboutMe from "../AboutMe.jsx";
 import MyPortfolio from "../MyPortfolio.jsx";
+import Testimonial from "../Testimonials.jsx";
 
 export default function Home () {
     return(
@@ -10,6 +11,7 @@ export default function Home () {
             <MySkills />
             <AboutMe />
             <MyPortfolio />
+            <Testimonial />
 
         </>
     );
