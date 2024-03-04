@@ -4,6 +4,7 @@ import AboutMe from "../AboutMe.jsx";
 import MyPortfolio from "../MyPortfolio.jsx";
 import Testimonial from "../Testimonials.jsx";
 import ContactMe from "../ContactMe.jsx";
+import Footer from "../Footer.jsx";
 
 export default function Home () {
     return(
@@ -14,6 +15,7 @@ export default function Home () {
             <MyPortfolio />
             <Testimonial />
             <ContactMe />
+            <Footer />
 
         </>
     );

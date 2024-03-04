@@ -14,11 +14,14 @@ export default function HeroSection(){
                         <br /> Lorem ipsum dolor sit, amet consectetur
                     </p>
                 </div>
+                <a href="https://www.linkedin.com/in/arman-babazadeh-a49ab71b9/">
                 <button className="btn btn-primary">Get In Touch</button>
+                </a>
             </div>
             <div className="hero-section--img">
                 <img src="./img/arman_profile.jpeg" alt="Hero Section" />
             </div>
         </section>
     );
+
 }
