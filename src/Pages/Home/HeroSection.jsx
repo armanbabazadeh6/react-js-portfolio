@@ -10,8 +10,8 @@ export default function HeroSection(){
                         Developer 
                     </h1>
                     <p className="hero--section-description">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                        <br /> Lorem ipsum dolor sit, amet consectetur
+                        React JS Portfolio Website Project
+                        <br /> I hope you like it!
                     </p>
                 </div>
                 <a href="https://www.linkedin.com/in/arman-babazadeh-a49ab71b9/">
